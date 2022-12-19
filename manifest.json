@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Shield is scaled down slightly in first person wield",
+        "name": "Subtle_Shield",
+        "uuid": "ce46700c-a773-40db-8371-d9c2c67e58cf",
+        "version": [0, 0, 2],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "7c9587c2-d1cc-44b6-ad7e-8b909b9b8f62",
+            "version": [0, 0, 1]
+        }
+    ]
+}
